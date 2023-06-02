@@ -1,6 +1,7 @@
 ### Hiiii there 👋, I'm Yann Massoro !
 
 I'm a student in strong progress from the school ASSOFAC partner with the famous O'Clock School.
+
 Passionate by the world of the Developpement Web when i was teenager now this is become my vocation.🔥
 
 ### Language
