@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hiiii there 👋, I'm Yann Massoro !
 
-<!--
-**YannBrooklyn/YannBrooklyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in strong progress from the school ASSOFAC partner with the O'Clock School.
+Passionate by the world of the Developpement Web when i was teenager now this is become my vocation.🔥
 
-Here are some ideas to get you started:
+### Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML CSS JS 
+
+<img href="https://icons8.com/icon/108784/javascript"><a target="_blank">JavaScript</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+#### FrontEnd
+
+JS EJS
+
+#### BackEnd
+
+NodeJS Express
+
+### Tools
+
+Visual Studio Code Figma Visual Studio Visual Basic
+
+
+### My Goals
+
+
+
+#### My goals for learning
+
+Typescript Angular React Nest.js Next.js Python
+
+
+
