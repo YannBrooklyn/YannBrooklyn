@@ -23,7 +23,7 @@ Passionate by the world of the Developpement Web when i was teenager now this is
 
 ### My Goals for learning
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img alt="ReactJS" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> Nest.js Next.js 
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img alt="ReactJS" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-red"> <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-lightgrey"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 ## NOW ! Check My Repositories !
 
