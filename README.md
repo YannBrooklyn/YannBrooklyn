@@ -109,7 +109,7 @@
   ## 📫 Contact
 
   * 💼 LinkedIn: [Yann Massoro](https://www.linkedin.com/in/yann-massoro/)
-  * 📧 Email: [yann.massoro@gmail.com]
+  * 📧 Email: yann.massoro@gmail.com
 
 ---
  
