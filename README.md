@@ -1,29 +1,117 @@
-### Hiiii there 👋, I'm Yann Massoro !
+# 👋 Hi, I'm Yann Massoro.
 
-I'm a student in strong progress from the school ASSOFAC partner with the famous O'Clock School.
+💻 Fullstack Developer — JavaScript / TypeScript / Java  
+🏗️ Building modern applications across web, mobile and backend  
+🚀 Designing scalable systems across domains such as finance, business tools and SaaS platforms
 
-Passionate by the world of the Developpement Web when i was teenager now this is become my vocation.🔥
+---
 
-### Language
+## 🧠 About me
 
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+* 🔹 Fullstack developer (React / Angular / Spring Boot / NestJS)
+* 🔹 Passionate about **architecture, clean code, & scalable systems**
+* 🔹 Building real-world projects inspired by enterprise software
+* 🔹 Interested in **FinTech, ERP systems & SaaS platforms**
 
-#### FrontEnd
+---
 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> EJS (View engine)
+## 🛠️ Tech Stack
 
-#### BackEnd
+### Frontend
 
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+* React / Next.js
+* Angular
+* TailwindCSS
 
-### My Tools
+### Backend
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+* Node.js (NestJS)
+* Java (Spring Boot)
+* Python (Django)
 
+### Mobile
 
-### My Goals for learning
+* Flutter
+* React Native
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  <img alt="ReactJS" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-red"> <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-lightgrey"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+### Database & Tools
 
-## NOW ! Check My Repositories !
+* PostgreSQL
+* Docker
+* Prisma / TypeORM
+* Git / Github
 
+  ---
+
+  ## 🚀 Featured Projects
+
+  ### 💳 Noxa Bank (Banking System)
+
+  > A fullstack banking application with authentication, transactions, and secure architecture
+  
+  * Stack: Angular / Spring Boot / PostgreSQL / Keycloak
+  * Features:
+
+     * Account management
+     * Transaction system
+     * Authentication (OIDC / JWT)
+     * Multi-tenant architecture (WIP)
+
+👉[View Project](https://github.com/YannBrooklyn/Noxa-Bank)
+
+---
+
+### 🏢 Noxa ERP (Enterprise Resource Planning)
+
+> Modular ERP system inspired by Odoo
+
+* Stack: Angular / Spring Boot / Docker
+* Features:
+
+  * Multi-tenant system
+  * Role & permissions
+  * Modular architecture
+
+👉[View Project](https://github.com/YannBrooklyn/Noxa-ERP)
+
+---
+
+### 🛒 Noxa Shop (E-commerce)
+
+> Modern e-commerce platform
+
+* Stack: Next.js / Prisma / PostgreSQL / Stripe
+* Features:
+
+  * Product catalog
+  * Checkout system
+  * Authentication
+  * Admin dashboard (WIP)
+
+👉[View Project]()
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YannBrooklyn\&show_icons=true\&theme=radical)
+
+---
+
+## ⚙️ Current focus
+
+* 🔥 Build scalable and production-ready applications
+* 🏗️ Designing modular and maintainable architectures
+* 🔐 Implementing secure authentication and authorization systems
+* ☁️ Applying DevOps practices (Docker, CI/CD, cloud environments)
+
+  ---
+
+  ## 📫 Contact
+
+  * 💼 LinkedIn: [https://www.linkedin.com/in/yann-massoro/]
+  * 📧 Email: [yann.massoro@gmail.com]
+
+---
+ 
+⭐️ Feel free to check my repositories and give feedback!
