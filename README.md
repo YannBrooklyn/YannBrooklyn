@@ -10,7 +10,6 @@
 
 * 🔹 Fullstack developer (React / Angular / Spring Boot / NestJS)
 * 🔹 Passionate about **architecture, clean code, & scalable systems**
-* 🔹 Building real-world projects inspired by enterprise software
 * 🔹 Interested in **FinTech, ERP systems & SaaS platforms**
 
 ---
