@@ -56,7 +56,7 @@
      * Authentication (OIDC / JWT)
      * Multi-tenant architecture (WIP)
 
-👉[View Project](https://github.com/YannBrooklyn/Noxa-Bank)
+👉[View Project](https://github.com/YannNoxa/Noxa-Bank)
 
 ---
 
@@ -71,7 +71,7 @@
   * Role & permissions
   * Modular architecture
 
-👉[View Project](https://github.com/YannBrooklyn/Noxa-ERP)
+👉[View Project](https://github.com/YannNoxa/Noxa-ERP)
 
 ---
 
@@ -87,13 +87,13 @@
   * Authentication
   * Admin dashboard (WIP)
 
-👉[View Project]()
+👉[View Project](https://github.com/YannNoxa/noxa-shop)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YannBrooklyn\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=YannNoxa\&show_icons=true\&theme=radical)
 
 ---
 
