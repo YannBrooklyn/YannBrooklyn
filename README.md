@@ -44,7 +44,7 @@
 
   ## 🚀 Featured Projects
 
-  ### 💳 Noxa Bank (Banking System)
+  ### 💳 Deayus Bank (Banking System)
 
   > A fullstack banking application with authentication, transactions, and secure architecture
   
@@ -56,11 +56,11 @@
      * Authentication (OIDC / JWT)
      * Multi-tenant architecture (WIP)
 
-👉[View Project](https://github.com/YannNoxa/Noxa-Bank)
+👉[View Project](https://github.com/YannDeayus/Deayus-Bank)
 
 ---
 
-### 🏢 Noxa ERP (Enterprise Resource Planning)
+### 🏢 Deayus ERP (Enterprise Resource Planning)
 
 > Modular ERP system inspired by Odoo
 
@@ -71,11 +71,11 @@
   * Role & permissions
   * Modular architecture
 
-👉[View Project](https://github.com/YannNoxa/Noxa-ERP)
+👉[View Project](https://github.com/YannDeayus/Deayus-ERP)
 
 ---
 
-### 🛒 Noxa Shop (E-commerce)
+### 🛒 Deayus Shop (E-commerce)
 
 > Modern e-commerce platform
 
@@ -87,13 +87,13 @@
   * Authentication
   * Admin dashboard (WIP)
 
-👉[View Project](https://github.com/YannNoxa/noxa-shop)
+👉[View Project](https://github.com/YannDeayus/deayus-shop)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YannNoxa\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=YannDeayus\&show_icons=true\&theme=radical)
 
 ---
 
